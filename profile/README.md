@@ -1,6 +1,6 @@
 # Securing the decentralized trustless future
-<img align=left src="https://github.com/solidified-platform/.github/blob/master/profile/solidified_logo_black.svg#gh-light-mode-only" width="400">
-<img align=left src="https://github.com/solidified-platform/.github/blob/master/profile/solidified_logo_white.svg#gh-dark-mode-only" width="400">
+<img align=left src="https://github.com/solidified-platform/.github/blob/master/profile/solidified_logo_black_resized.png#gh-light-mode-only" width="400">
+<img align=left src="https://github.com/solidified-platform/.github/blob/master/profile/solidified_logo_white_resized.png#gh-dark-mode-only" width="400">
 
 </br></br>
 
